@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1447691207 source:c:\users\george\desktop\compile\mycompiler\getsym.c
+	<stdio.h>
+	<stdlib.h>
+
